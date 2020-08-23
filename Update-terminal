@@ -1,0 +1,3 @@
+hello everyone
+Here are few commands to update your pc using Ubuntu Terminal
+$ sudo apt-get update && sudo apt update
